@@ -1,7 +1,4 @@
-
-
-
-
+```
 from typing import Tuple, List, Dict
 
 class Medakah:
@@ -31,3 +28,4 @@ class Attributes(Medakah):
         ide           = ['vscode']
         
 	return langs, specialities, ide
+```
