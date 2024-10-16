@@ -31,5 +31,5 @@ class Attributes(Medakah):
 ```
 
 
-Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+				```Skills```
+[![My Skills](https://skillicons.dev/icons?i=py,go,css,wasm)](https://skillicons.dev)
