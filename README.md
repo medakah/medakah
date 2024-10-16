@@ -37,10 +37,5 @@ class Attributes(Medakah):
 </p>
 <p align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1105ca082d834b2205bf97470bdcbbc5f5b9a3303767cd7d37c0ed3b360af375/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7874656b6b79267468656d653d746f6b796f6e696768742673686f775f69636f6e733d74727565"><img alt="" src="https://camo.githubusercontent.com/1105ca082d834b2205bf97470bdcbbc5f5b9a3303767cd7d37c0ed3b360af375/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7874656b6b79267468656d653d746f6b796f6e696768742673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=medakah&amp;theme=tokyonight&amp;show_icons=true" style="max-width: 100%;"></a>
-</p>
-<p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f3fe72aa65d2f15e67f3438b8abcd7ad1e75fad5e8b10a4a57a451bda2c35a06/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f313131353337383134373633303738383631382f"><img alt="" src="https://camo.githubusercontent.com/f3fe72aa65d2f15e67f3438b8abcd7ad1e75fad5e8b10a4a57a451bda2c35a06/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f313131353337383134373633303738383631382f" data-canonical-src="https://lanyard.cnrad.dev/api/1115378147630788618/" style="max-width: 100%;"></a>
-</p>
-</article>
   </div>
 </div>
