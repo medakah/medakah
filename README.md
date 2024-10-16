@@ -1,6 +1,4 @@
-dir="auto">About Me </h2><a
-
-```py
+```py dir="auto">About Me </h2><a
 from typing import Tuple, List, Dict
 
 class Medakah:
