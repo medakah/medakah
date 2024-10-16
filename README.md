@@ -1,4 +1,4 @@
-```
+```py
 from typing import Tuple, List, Dict
 
 class Medakah:
